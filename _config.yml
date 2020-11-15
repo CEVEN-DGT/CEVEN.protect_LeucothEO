@@ -41,7 +41,7 @@ navigation:
   url: login/
   internal: true
 - text: LeucothEO Repo
-  url: https://github.com/IneffableKoD/LeucothEO
+  url: https://github.com/OdysseyMomentum/CEVEN.protect_LeucothEO
   internal: false
 
 # Repo list
@@ -49,7 +49,7 @@ navigation:
 repos:
 - name: CEVEN.protect
   description: Momentum Repository
-  url: https://github.com/OdysseyMomentum/CEVEN.protect
+  url: https://github.com/OdysseyMomentum/CEVEN.protect_LeucothEO
 
 # Style Variables
 brand_color: "#0A97D9"
