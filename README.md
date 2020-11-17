@@ -5,7 +5,8 @@
 | Project name        | LeucothEO                                                     |
 | :------------------ | ------------------------------------------------------------  |
 | Title               | Incentivizing data sharing on the high seas                   |
-| Product demo        | https://odysseymomentum.github.io/CEVEN.protect_LeucothEO/                                   |
+| Product demo        | https://www.leucotheo.org                                   |
+| Twitter        | https://twitter.com/leucotheo                                |
 | Blog post           | TBA                                                           |
 | Dissemination level | Public                                                        |
 | Version             | 0.1                                                           |
